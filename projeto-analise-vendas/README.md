@@ -5,3 +5,11 @@ Projeto focado em identificar padrões de vendas, oportunidades de crescimento e
 Em desenvolvimento 🚀
 
 ![Gráfico de Vendas por Categoria](vendas_por_categoria.png)
+
+🔍 Principais Descobertas
+As categorias "Food and beverages" e "Sports and travel" apresentaram o maior volume de vendas totais.
+
+O projeto envolveu o tratamento de dados (ETL), criação de novas métricas como o lucro bruto (Gross_Profit) e visualização com a biblioteca Seaborn.
+
+🛠️ Organização do Projeto
+Estrutura de pastas padronizada para facilitar a manutenção e escalabilidade do projeto (Pastas: data, notebooks, sql).
