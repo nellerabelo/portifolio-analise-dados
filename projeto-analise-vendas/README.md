@@ -7,8 +7,6 @@ Em desenvolvimento 🚀
 
 ![Gráfico de Vendas por Categoria](vendas_por_categoria.png)
 
-"C:\Users\Usuario\Downloads\WhatsApp Image 2026-04-24 at 21.02.38 (1).jpeg"
-
 
 ## 🔍 Principais Descobertas
 As categorias "Food and beverages" e "Sports and travel" apresentaram o maior volume de vendas totais.
