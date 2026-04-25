@@ -7,7 +7,7 @@ Em desenvolvimento 🚀
 
 ![Gráfico de Vendas por Categoria](vendas_por_categoria.png)
 
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/b9eb4e8b-dc03-4434-82dd-5f1a2d4bae9a" />
+"C:\Users\Usuario\Downloads\WhatsApp Image 2026-04-24 at 21.02.38 (1).jpeg"
 
 
 ## 🔍 Principais Descobertas
