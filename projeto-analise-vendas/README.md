@@ -9,7 +9,7 @@ Em desenvolvimento 🚀
 
 ![Dashboard de Vendas](Dashboard.jpeg)
 
-### 🛠️ Detalhes da Implementação Técnico-Analítica
+## 🛠️ Detalhes da Implementação Técnico-Analítica
 
 O objetivo desta etapa foi criar um dashboard executivo que permitisse a leitura rápida dos principais indicadores de desempenho (KPIs) do supermercado.
 
