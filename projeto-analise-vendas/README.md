@@ -1,3 +1,4 @@
+
 # 📊 Análise de Vendas
 
 Projeto focado em identificar padrões de vendas, oportunidades de crescimento e apoio à tomada de decisão.
@@ -5,6 +6,9 @@ Projeto focado em identificar padrões de vendas, oportunidades de crescimento e
 Em desenvolvimento 🚀
 
 ![Gráfico de Vendas por Categoria](vendas_por_categoria.png)
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/b9eb4e8b-dc03-4434-82dd-5f1a2d4bae9a" />
+
 
 ## 🔍 Principais Descobertas
 As categorias "Food and beverages" e "Sports and travel" apresentaram o maior volume de vendas totais.
