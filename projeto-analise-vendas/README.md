@@ -7,7 +7,6 @@ Em desenvolvimento 🚀
 
 ![Gráfico de Vendas por Categoria](vendas_por_categoria.png)
 
-![Dashboard de Vendas](Dashboard.jpeg)
 
 ## 🛠️ Detalhes da Implementação Técnico-Analítica
 
@@ -16,6 +15,8 @@ O objetivo desta etapa foi criar um dashboard executivo que permitisse a leitura
 - **Normalização de Dados via DAX:** Identifiquei que os valores de vendas estavam com erro de escala e utilizei medidas calculadas para reajustar o faturamento e o ticket médio.
 - **UI/UX Design:** Implementação de Dark Mode para redução de fadiga visual e uso de botões do tipo "Tile" para filtros, otimizando o espaço da tela.
 - **Integração de Visões:** Mix de Pagamento (Gráfico de Rosca) e Tendência Temporal (Gráfico de Linhas) para análise de comportamento de consumo.
+
+  ![Dashboard de Vendas](Dashboard.jpeg)
 
 ## 🔍 Principais Descobertas
 As categorias "Food and beverages" e "Sports and travel" apresentaram o maior volume de vendas totais.
